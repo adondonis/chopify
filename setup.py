@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="chopify",
-    version="1.0.0",
+    version="1.1.0",
     author="Adonis",
     description="Chopify your words.",
     long_description=open("README.md").read(),
